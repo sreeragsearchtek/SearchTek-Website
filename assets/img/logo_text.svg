@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4854" height="1621" viewBox="0 0 4854 1621">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 133.333px;
+        fill: #00455f;
+        font-family: Milliard;
+      }
+
+      .cls-1 {
+        font-weight: 300;
+      }
+
+      .cls-2 {
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="Consulting_LLP" data-name="Consulting LLP" class="cls-1" transform="matrix(2.981, 0, 0, 2.981, 1018.549, 1231.287)">Consulting LLP</text>
+  <text id="SEARCHTEK" class="cls-2" transform="matrix(5.611, 0, 0, 5.611, 133, 790.915)">SEARCHTEK</text>
+</svg>
